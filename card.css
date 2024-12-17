@@ -1,0 +1,35 @@
+body{
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+.main{
+    height: 480px;
+    width: 300px;
+    background-color: #fff;
+    box-shadow: 5px 6px 7px 8px #dadada;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.line{
+    width: 80%;
+    margin-left: 10%;
+    background-color: #42414e;
+    opacity: .2;
+    border-radius: 3%;
+    height: 3px;
+}
+
+h1{
+    margin-top: 0px;
+    margin-left: 25px;
+    font-size: 1rem;
+}
+
+.price{
+    font-size: .8rem;
+    text-align: right;
+    margin-top: -25px;  
+    margin-right: 30px;
+}
+
